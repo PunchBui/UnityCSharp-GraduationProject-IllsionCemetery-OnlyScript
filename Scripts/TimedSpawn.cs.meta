@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c03a0e7e459452d44a0cd4327cb3e65f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WaveStartAnime: {instanceID: 0}
+  - TextCountWave: {instanceID: 0}
+  - CountZombie: {instanceID: 0}
+  - ImageCountzombie: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

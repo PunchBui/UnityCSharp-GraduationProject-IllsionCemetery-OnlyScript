@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef1686706f5e639438a60355449b0004
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CutScene: {fileID: 8376655125528895563, guid: c73c2249c96d8cc46955404b3a63c936,
+      type: 3}
+  - CameraMainAc: {instanceID: 0}
+  - Pa: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
